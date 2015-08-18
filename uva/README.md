@@ -1,1 +1,1 @@
-[site link](https://uva.onlinejudge.org/){:target="_blank"}
+[site link](https://uva.onlinejudge.org/)
