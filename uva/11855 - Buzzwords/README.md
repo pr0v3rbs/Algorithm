@@ -6,6 +6,6 @@ I didn't use suffix array.
 
 (2) And scan vector array pushing custom priority queue(order by 1. length and 2. length*count).
 
-(3) So we can find best(longest length and length*count) duplicated string.
+(3) So we can find best(longest length and length*count) repeated string.
 
 (4) Next, pop best string from priority queue. and then check all next index of string pushing vector array. Keep go (2)
